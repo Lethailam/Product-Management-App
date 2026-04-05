@@ -11,7 +11,7 @@
   "include": [
     "**/*.ts",
     "**/*.tsx",
-    ".expo/types/**/*.ts",
-    "expo-env.d.ts"
-  ]
+    "src/config/firebase.ts",
+    "src/utilts/imageUtils.ts"
+, "app/_layout.tsx", "src/navigation/AppNavigator.tsx", "src/screens/ProductFormScreen.js", "src/services/productService.ts"  ]
 }
